@@ -1,3 +1,9 @@
+<h1 align="center">🍔 Welcome m2za's space 🍕</h1>
+<p align="center"><b>Game Interactive Technology · 3D Generation</b></p>
+<p align="center">Unity / Unreal · Python / C++</p>
+
+<br/>
+
 <h2 align="center">✨ Tech Stack ✨</h2>
 
 <p align="center">
@@ -16,8 +22,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Game%20Programming-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/3D%20Generation-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Interactive%20Tech-16A34A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/3D%20Generation-2563EB?style=for-the-badge" />
 </p>
 
 <br/>
