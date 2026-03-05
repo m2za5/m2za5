@@ -1,5 +1,4 @@
 <h1 align="center">🍔 Welcome m2za's space 🍕</h1>
-<p align="center">Unity / Unreal · Python / C++</p>
 
 <br/>
 
