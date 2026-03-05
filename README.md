@@ -1,9 +1,6 @@
 <h1 align="center">🍔 Welcome m2za's space 🍕</h1>
-
 <br/>
-
 <h2 align="center">✨ Tech Stack ✨</h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-2563EB?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
