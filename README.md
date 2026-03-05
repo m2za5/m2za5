@@ -37,14 +37,3 @@
 </p>
 
 <br/>
-
-<h2 align="center">📊 Stats (optional)</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m2za5&show_icons=true&hide_title=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m2za5&layout=compact" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B7280,100:0E1128&height=120&section=footer" />
-</p>
