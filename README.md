@@ -34,15 +34,6 @@
   <a href="mailto:pepper0ni__pizza@naver.com">
     <img src="https://img.shields.io/badge/Mail-6B7280?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="YOUR_BLOG_LINK">
-    <img src="https://img.shields.io/badge/Blog-22C55E?style=for-the-badge" />
-  </a>
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge" />
-  </a>
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
 
 <br/>
